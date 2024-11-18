@@ -118,7 +118,8 @@ defaults:
 ### Exclude from processing ###
 ## Add yours here if you have other stuff in your github.io page!!!**
 exclude:
-    - README.md
+exclude:
+  - README.md
   - README.md~
   - CONTRIBUTING.md
   - LICENSE.md
